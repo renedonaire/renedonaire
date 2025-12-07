@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-	- A web app using maps
-	- A backend for some graphics arts software
+	- A SaaS
+	- Several projects as Project Manager
 	
 - 🌱 I`m currently learning:
-	- Next_js
+	- Basic Robotics
+	- ROS
 	
 - 📫 How to reach me:
 	- [Linkedin](https://www.linkedin.com/in/rene-donaire/ "Linkedin")
